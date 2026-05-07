@@ -1,5 +1,4 @@
 # jovank0715_hub.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <title>buttons</title>
@@ -73,6 +72,10 @@
   .tweet:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
   }
+
+  .jo {
+  background-color: (73, 252, 3)
+  }
 </style>
   </head>
   <body>
@@ -80,6 +83,7 @@
 <button class="sub">SUBSCRIBE</button>
 <button class="join">JOIN</button>
 <button class="tweet">Tweet</button>
+<button class="jo">JO</button>
 
   </body>
 </html>
