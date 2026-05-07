@@ -75,6 +75,8 @@
 
   .jo {
   background-color: (73, 252, 3)
+  heighth: 36px;
+  width: 76px;
   }
 </style>
   </head>
