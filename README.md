@@ -80,7 +80,7 @@
   }
 
   .jo:hover {
-  background-color: rgb(48, 117, 1);
+  opacity: 0.7;
   }
 </style>
   </head>
