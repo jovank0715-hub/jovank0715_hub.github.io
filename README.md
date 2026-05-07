@@ -82,6 +82,10 @@
   .jo:hover {
   opacity: 0.7;
   }
+
+  .jo:active {
+    background-color: rgb(12, 232, 70);
+  }
 </style>
   </head>
   <body>
